@@ -7,12 +7,6 @@
 from flask import Flask,request,render_template
 
 
-# In[2]:
-
-
-import openai
-
-
 # In[ ]:
 
 
